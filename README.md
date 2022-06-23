@@ -1,0 +1,1 @@
+Programa que simula o Jogo da Forca em Python, feito com conhecimentos adquiridos em loops e estuturas de condição
